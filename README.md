@@ -1,2 +1,2 @@
 Raidix media
-DEMO
+DEMO https://edstarck.github.io/raidixmedia/
