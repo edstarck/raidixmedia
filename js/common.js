@@ -60,4 +60,6 @@ $(window).load(function(){
             fadeOut: 800 // 800ms for fadeOut animations
         }
     });
+    $(".loader_inner").fadeOut();
+    $(".loader").delay(400).fadeOut("slow");
 });
